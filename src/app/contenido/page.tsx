@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import temas from '../../content/temas.json';
+import temas from '../../../content/temas.json';
 
 export default function Contenido() {
   return (

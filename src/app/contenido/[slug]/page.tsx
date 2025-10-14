@@ -1,4 +1,4 @@
-import temas from '../../../content/temas.json';
+import temas from '../../../../content/temas.json';
 import type { Metadata } from 'next';
 
 export async function generateStaticParams() {
